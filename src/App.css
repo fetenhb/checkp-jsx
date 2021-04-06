@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Train+One&display=swap');
+
+.title{
+font-family: 'Indie Flower';
+font-size: 40px;
+text-align: center;
+}
+.red {
+  color: red;
+}
+img {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+.arrow-down {
+  width: 32px;
+  height: 20px;
+  background-color: #e888a3;
+
+  clip-path: polygon(100% 0, 0 0, 50% 100%);
+}
+
+.arrow-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px 0 0;
+  margin-bottom: 30px;
+
+}
